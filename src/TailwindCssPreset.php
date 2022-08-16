@@ -62,6 +62,8 @@ class TailwindCssPreset extends Preset
         copy(__DIR__.'/tailwindcss-stubs/tailwind.config.js', base_path('tailwind.config.js'));
 
         copy(__DIR__.'/tailwindcss-stubs/webpack.mix.js', base_path('webpack.mix.js'));
+        
+        copy(__DIR__.'/tailwindcss-stubs/postcss.config.js', base_path('postcss.config.js'));
 
         copy(__DIR__.'/tailwindcss-stubs/resources/js/bootstrap.js', resource_path('js/bootstrap.js'));
     }
