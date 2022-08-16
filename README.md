@@ -1,7 +1,7 @@
 # Laravel 9.0+ Frontend preset for Tailwind CSS
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/xndbogdan/tailwindcss.svg?style=flat-square)](https://packagist.org/packages/xndbogdan/filesize-conversions)
-[![Total Downloads](https://img.shields.io/packagist/dt/xndbogdan/tailwindcss.svg?style=flat-square)](https://packagist.org/packages/xndbogdan/filesize-conversions)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/xndbogdan/tailwindcss.svg?style=flat-square)](https://packagist.org/packages/xndbogdan/tailwindcss)
+[![Total Downloads](https://img.shields.io/packagist/dt/xndbogdan/tailwindcss.svg?style=flat-square)](https://packagist.org/packages/xndbogdan/tailwindcss)
 
 
 A Laravel front-end scaffolding preset for [Tailwind CSS](https://tailwindcss.com) - a Utility-First CSS Framework for Rapid UI Development.
