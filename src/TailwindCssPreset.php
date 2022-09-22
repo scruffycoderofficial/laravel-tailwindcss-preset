@@ -33,6 +33,9 @@ class TailwindCssPreset extends Preset
             'postcss' => '^8.4.12',
             'autoprefixer' => '^10.4.4',
             'laravel-mix' => '^6.0',
+            '@tailwindcss/aspect-ratio' => '^0.4.2',
+            '@tailwindcss/forms' => '^0.5.3',
+            '@tailwindcss/typography' => '^0.5.7',
         ], Arr::except($packages, [
             'bootstrap',
             'bootstrap-sass',
