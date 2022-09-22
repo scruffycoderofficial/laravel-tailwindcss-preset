@@ -29,7 +29,7 @@ class TailwindCssPreset extends Preset
     protected static function updatePackageArray(array $packages)
     {
         return array_merge([
-            'tailwindcss' => '^3.0.23',
+            'tailwindcss' => '^3.1.8',
             'postcss' => '^8.4.12',
             'autoprefixer' => '^10.4.4',
             'laravel-mix' => '^6.0',
