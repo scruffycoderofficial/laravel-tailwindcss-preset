@@ -22,5 +22,6 @@
         "LaravelFrontendPresets\\TailwindCssPreset\\TailwindCssPresetServiceProvider"
       ]
     }
-  }
+  },
+  "minimum-stability": "dev",
 }
